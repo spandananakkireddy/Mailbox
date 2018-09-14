@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Group32_Inclass13</string>
+    <string name="btnsend">SEnd</string>
+    <string name="btnse">Send</string>
+    <string name="from">From:</string>
+    <string name="to">To: </string>
+    <string name="from2">From:</string>
+    <string name="from3">From:</string>
+    <string name="composemessage">Compose Message</string>
+    <string name="inbox">Inbox</string>
+    <string name="messageme">Message Me!</string>
+    <string name="readmessage">Read Message</string>
+    <string name="messagemesignup">Message me! (Sign Up)</string>
+
+
+</resources>
